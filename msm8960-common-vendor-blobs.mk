@@ -241,6 +241,4 @@ PRODUCT_COPY_FILES += \
     #vendor/pantech/msm8960-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
 
 PRODUCT_PACKAGES += \
-    qcrilmsgtunnel \
-    TimeService \
-    shutdownlistener
+    qcrilmsgtunnel 
